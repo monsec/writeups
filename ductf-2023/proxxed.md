@@ -1,5 +1,12 @@
 ---
 description: 'Author: Karjun (g00bert)'
+author: Karjun (g00bert)
+date: 2023-09-18
+competition: DownUnderCTF 2023
+category: Web
+difficulty: Beginner
+challenge_author: Jordan Bertasso
+canonical: https://medium.com/@g00bert/proxxed-ductf-2023-13f7c9b99ead
 ---
 
 # Proxxed
@@ -12,7 +19,7 @@ Challenge author: Jordan Bertasso
 
 Category: Web (Beginner)
 
-Source code: [https://github.com/DownUnderCTF/Challenges\_2023\_Public/tree/main/web/grades-grades-grades](https://github.com/DownUnderCTF/Challenges\_2023\_Public/tree/main/beginner/proxed)
+Source code: [https://github.com/DownUnderCTF/Challenges\_2023\_Public/tree/main/beginner/proxed](https://github.com/DownUnderCTF/Challenges\_2023\_Public/tree/main/beginner/proxed)
 
 ## Basic Recon <a href="#0cea" id="0cea"></a>
 

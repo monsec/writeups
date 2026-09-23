@@ -1,5 +1,12 @@
 ---
 description: 'Author: Karjun (g00bert)'
+author: Karjun (g00bert)
+date: 2023-09-18
+competition: DownUnderCTF 2023
+category: Blockchain
+difficulty: Beginner
+challenge_author: Blue Alder
+canonical: https://g00bert.medium.com/eight-five-four-five-1562d95684ee
 ---
 
 # Eight Five Four Five
