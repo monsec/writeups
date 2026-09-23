@@ -1,5 +1,12 @@
 ---
 description: 'Author: Karjun (g00bert)'
+author: Karjun (g00bert)
+date: 2023-09-18
+competition: DownUnderCTF 2023
+category: Misc
+difficulty: Beginner
+challenge_author: BootlegSorcery
+canonical: https://medium.com/@g00bert/needle-in-iam-ductf-2023-581c297265b5
 ---
 
 # Needle in IAM

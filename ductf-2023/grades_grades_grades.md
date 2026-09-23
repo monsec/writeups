@@ -1,5 +1,12 @@
 ---
 description: 'Author: Karjun (g00bert)'
+author: Karjun (g00bert)
+date: 2023-09-18
+competition: DownUnderCTF 2023
+category: Web
+difficulty: Easy
+challenge_author: donfran
+canonical: https://medium.com/@g00bert/grades-grades-grades-ductf2023-d36135489d43
 ---
 
 # Grades\_grades\_grades
